@@ -12,7 +12,7 @@ body {
 }
 
 #article-list #article-list-category {
-  border-top: 2px solid #519D9E;
+  border-top: 2px solid #FFB6C1;
   background: white;
 }
 
@@ -21,15 +21,15 @@ body {
 }
 
 #article-list>.article-list-row>.item>.list-header>span {
-  background-color: #519D9E;
+  background-color: #FFB6C1;
 }
 
 #article-list>.article-list-row>.item>.list-title>small.comment-count {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 #article-list>.article-list-row>.item>.list-title>.list-writer.logged>span {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 .pagination>.active>a,
@@ -38,29 +38,29 @@ body {
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover {
-  background-color: #519D9E;
-  border-color: #519D9E;
+  background-color: #FFB6C1;
+  border-color: #FFB6C1;
 }
 
 .pagination>li>a:focus,
 .pagination>li>a:hover,
 .pagination>li>span:focus,
 .pagination>li>span:hover {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 .pagination>li>a,
 .pagination>li>span {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 #article-content-wrapper>.header {
-  border-top: 2px solid #519D9E;
+  border-top: 2px solid #FFB6C1;
 }
 
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
 #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 #article-info>h2 {
@@ -68,20 +68,20 @@ body {
 }
 
 #article-info>h2>span.category {
-  color: #519D9E !important;
+  color: #FFB6C1 !important;
 }
 
 #article-reply-area>.header h5 {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged,
 #article-reply-area #reply-best-area .reply>.reply-header>.reply-writer.logged {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 .btn-primary {
-  background: #519D9E !important;
+  background: #FF69B4	 !important;
 }
 
 /* 모바일 */
@@ -91,27 +91,27 @@ body {
 }
 
 header {
-  background-color: #519D9E;
-  border-bottom-color: #519D9E;
+  background-color: #FFB6C1;
+  border-bottom-color: #FF69B4	;
 }
 
 header>#header-area>a>h1 {
-  background: url('https://github.com/runa0512/Runa/blob/master/1.png') no-repeat;
+  background: url('https://raw.githubusercontent.com/runa0512/Runa/master/Sugether.png') no-repeat;
   background-size: auto 36px;
   background-repeat: no-repeat;
   height: unset !important;
 }
 
 header>#header-area>#header-search-link {
-  color: #519D9E;
+  color: #FF69B4	;
 }
 
 header>#header-area>#header-bar-link {
-  color: #519D9E;
+  color: #FF69B4	;
 }
 
 header>#header-search-bar #header-search-btn {
-  color: #519D9E;
+  color: #FF69B4	;
 }
 
 #article-list>.article-list-row.notice>.item>a.list-title>.list-writer {
@@ -119,19 +119,19 @@ header>#header-search-bar #header-search-btn {
 }
 
 header>#header-search-bar #header-search-input {
-  border-color: #519D9E;
+  border-color: #FF69B4	;
 }
 
 #article-list>.article-list-row>.item>a.list-title>small.comment-count {
-  color: #519D9E;
+  color: #FFB6C1;
   letter-spacing: -0.05em !important;
 }
 
 #article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span {
-  color: #519D9E;
+  color: #FFB6C1;
 }
 
 #nav#nav>.nav-header {
-  background-color: #519D9E;
+  background-color: #FFB6C1;
   color: white;
 }
